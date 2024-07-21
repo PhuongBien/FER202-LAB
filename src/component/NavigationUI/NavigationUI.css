@@ -1,0 +1,12 @@
+.switch-mode:hover {
+    background-color: rgba(0, 0, 0, 0.1) !important;
+}
+
+.navbarUI {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+    border-bottom: 1px solid grey;
+}
+
